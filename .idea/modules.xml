@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CurrencyConverterNew.iml" filepath="$PROJECT_DIR$/.idea/CurrencyConverterNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currencyConvertor-new_fitures/currencyConvertor-new_fitures/convertor.iml" filepath="$PROJECT_DIR$/currencyConvertor-new_fitures/currencyConvertor-new_fitures/convertor.iml" />
+    </modules>
+  </component>
+</project>
